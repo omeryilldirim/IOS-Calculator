@@ -51,6 +51,10 @@ body{
 .operator{
     background-color: #B48729;
 }
+#keypad button:nth-child(2),
+#keypad button:nth-child(3){
+    background-color: #6A6A65;
+}
 .function{
     background-color: #6A6A65;
 }
