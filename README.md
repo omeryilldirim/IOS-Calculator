@@ -3,7 +3,7 @@
 
 ## Description
 
-IOS calculator code along with HTML, CSS grid structure and Vanilla Javascript structure. /n
+IOS calculator code along with HTML, CSS grid structure and Vanilla Javascript structure. \n
 Symbols used in this app: ± % ÷ × − + =
 
 ## Project Skeleton 
