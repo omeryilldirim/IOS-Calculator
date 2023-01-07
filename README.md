@@ -26,7 +26,7 @@ IOS-calculator (folder)
 ## Extra Challenges
 
 - Make keyboard inputs work with the calculator
-- Limit the visible display number to 9 digits
-- Make display font size dynamically change for when you have 6, 7, 8, 9 digits
+<!-- - Limit the visible display number to 9 digits
+- Make display font size dynamically change for when you have 6, 7, 8, 9 digits -->
 
 <p align='center'> ⌛ Happy Coding ✍ - Please feel free to check my work out ! 🙃 </p>
